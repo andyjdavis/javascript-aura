@@ -1,9 +1,4 @@
 
-function drawRect(context, x, y, width, height, color) {
-    context.fillStyle = color;
-    context.fillRect(x, y, width, height);
-}
-
 //http://ejohn.org/blog/simple-javascript-inheritance/#postcomment
 /* Simple JavaScript Inheritance
  * By John Resig http://ejohn.org/
